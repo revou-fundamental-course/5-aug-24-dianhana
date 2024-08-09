@@ -20,6 +20,10 @@ aside {
     border-radius: 4px;
 }
 
+.bg-regris {
+    background-color: rgb(144, 227, 230);
+}
+
 .bg-cornsilk {
     background-color: cornsilk;
 }
@@ -45,3 +49,12 @@ footer {
     text-align: center;
 }
 
+.regristasi {
+    height: 32px;
+    border-radius: 4px;
+    margin: 10px;
+}
+
+.regris1 {
+    text-align: center;
+}
